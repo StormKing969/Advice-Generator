@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/StormKing969/Advice-Generator](https://github.com/StormKing969/Advice-Generator)
+- Live Site URL: [https://dazzling-meitner-2e4ce2.netlify.app/](https://dazzling-meitner-2e4ce2.netlify.app/)
 
 ## My process
 
